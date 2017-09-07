@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieType</string>
+    <string name="comedy">Comedy</string>
+    <string name="horror">Horror</string>
+    <string name="romantic">Romantic</string>
+    <string name="sci_fiction">Sci-Fiction</string>
+    <string name="thriller">Thriller</string>
+    <string name="type_of_movies">Type of Movies</string>
+    <string name="select">SELECT</string>
+</resources>
